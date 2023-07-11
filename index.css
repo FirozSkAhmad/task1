@@ -1,0 +1,18 @@
+table,td,th{
+    border: 1px solid black;
+    border-collapse: collapse;
+    min-width: 100px;
+}
+
+.row1,.col1{
+    background-color: rgb(216, 216, 216);
+}
+
+.row1{
+    text-align: left;
+}
+
+input{
+    border: none;
+    outline: none;
+}
